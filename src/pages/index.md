@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Test 3 for landing page
+title: Agorateca
 image: /img/home-jumbotron.jpg
 heading: WellD
-subheading: Agorateca
+subheading: Film, musica, giochi e libri
 mainpitch:
   title: Why Kaldi
   description: >
