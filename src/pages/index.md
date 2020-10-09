@@ -3,7 +3,7 @@ templateKey: index-page
 title: Test 3 for landing page
 image: /img/home-jumbotron.jpg
 heading: WellD
-subheading: Event FOO
+subheading: Agorateca
 mainpitch:
   title: Why Kaldi
   description: >
