@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Test 3 for landing page
+title: Empirco
 image: /img/home-jumbotron.jpg
 heading: WellD
 subheading: Agorateca
